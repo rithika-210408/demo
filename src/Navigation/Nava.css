@@ -1,0 +1,21 @@
+nav{
+    background-color: blue;
+    color:pink;
+}
+li{
+    list-style:none;
+}
+nav{
+    position: fixed;
+    width:100%;
+    top:0;
+    
+}
+.nava{
+    padding-left: 25px;
+}
+ul{
+    display: flex;
+    gap: 25px;
+    justify-content: left;
+}

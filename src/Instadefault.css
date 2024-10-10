@@ -1,0 +1,10 @@
+.subs{
+    background-color: black;
+    color: beige;
+    
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+}
